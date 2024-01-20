@@ -1,9 +1,9 @@
-Colour Recognition using Python
+<h1>Colour Recognition using Python</h1>
 
-Area / Domain of Project:
+<h3>Area / Domain of Project:</h3>
 Artificial Intelligence and Machine Learning
 
-Abstract:
+<h3>Abstract:</h3>
 In response to the growing importance of color recognition in various applications,  
 this study delves into the realm of machine learning to address the challenges
 associated with accurate and efficient color recognition. The existing methods for 
